@@ -31,8 +31,8 @@ npm install
 3. Create a `.env` file in the root directory and add your Google OAuth 2.0 credentials:
 
 ```
-GOOGLE_CLIENT_ID=your-google-client-id
-GOOGLE_CLIENT_SECRET=your-google-client-secret
+CLIENT_ID=your-google-client-id
+CLIENT_SECRET=your-google-client-secret
 ```
 
 4. Start the server:
